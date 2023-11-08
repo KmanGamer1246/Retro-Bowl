@@ -1,0 +1,9 @@
+body {
+	background-color: #2353CC;
+}
+
+#game-element {
+	border-radius: 25px;
+    border: 3px solid white;
+    box-shadow: -6px 5px #363636;
+}
